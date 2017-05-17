@@ -1,6 +1,7 @@
 """
-high level support for doing this and that.
+I'm Practicing Python HAHAHA
 """
-print()
-name = input("Your name is:")
-print("Hello,", name)
+print('''haha
+wawa
+yaya
+baba''')
